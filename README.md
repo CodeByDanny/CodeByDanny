@@ -1,4 +1,4 @@
-+ 👋 Hi, I'm @CodeByDanny 
++ 👋 Hi, I'm @CodeByDanny!
 + 👀 I'm interested in exploring the depths of software development and creating meaningful solutions through code.
 + 🌱 I'm currently learning full stack web development to craft dynamic and responsive user experiences.
 + 💞️ I'm looking to collaborate on open-source projects that make a positive impact and challenge my coding skills.
